@@ -1,0 +1,30 @@
+//////////////////////////////
+// Text
+.text-center {
+    text-align: center;
+}
+
+//////////////////////////////
+// Font weight
+.text-bold {
+    font-weight: var(--fw-bold);
+}
+
+//////////////////////////////
+// Margins and Paddings
+
+.mt-40 {
+    margin-top: 40px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.pt-40 {
+    padding-top: 40px;
+}
+
+.pb-40 {
+    padding-bottom: 40px;
+}

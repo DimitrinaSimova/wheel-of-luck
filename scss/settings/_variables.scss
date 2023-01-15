@@ -1,0 +1,24 @@
+// Paths
+$path-asset-root: "../";
+$path-asset-images: "../images/";
+
+:root {
+    //Colors
+    --clr-white: rgba(255, 255, 255, 1);
+    --clr-primary: rgba(32, 29, 52, 1);
+
+    //Font weight
+    --fw-bold: 700;
+}
+
+
+// Breakpoints
+$breakpoints: (
+    xs: (dir: min, size: 320px),
+    s: (dir: min, size: 480px),
+    sm: (dir: min, size: 576px),
+    md: (dir: min, size: 768px),
+    lg: (dir: min, size: 992px),
+    xl: (dir: min, size: 1200px),
+);
+
